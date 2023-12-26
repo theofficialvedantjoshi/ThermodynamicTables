@@ -1,4 +1,4 @@
-#THERMODYNAMIC TABLES
+######THERMODYNAMIC TABLES
 
 In my first semester of university I took the Themodynamics course. It required reading several thermodynamic properties from our textbook for each question. Instead of flipping through pages and calculating properties I had the idea to automate this and create a properties Calculator.
 
