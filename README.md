@@ -8,4 +8,7 @@ Tables.py file converts PDF data to csv files.
 
 main.py file creates an interactive menu to query data from csv files.
 
+This program only supports the saturated properties of the substances in our course. Support for Superheated Tables will be added soon.
+
 The folder can be downloaded and used by running the main.py file in any IDE. 
+
